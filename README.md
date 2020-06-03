@@ -1,5 +1,3 @@
-## Odyssey Week 13 - Multiplying Experiences
-
 ### URL : https://exp.host/@benland/RocketElevatorsApp
 
 #### Click the link above to test the project by downloading it with expo or "open project in browser"
